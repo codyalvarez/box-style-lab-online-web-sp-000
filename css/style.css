@@ -57,6 +57,6 @@ h4 {
   width: 303%;
 }
 body {
-  background-color: lightblue;
+  background-color: url("./images/white-wood.jbg")
   background-size: #cover;
 }
