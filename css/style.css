@@ -57,6 +57,6 @@ h4 {
   width: 303%;
 }
 body {
-  background-image: url("./images/white-wood.jpg");
+  background: url("./images/white-wood.jpg") no-repeat fixed center;
 
 }
